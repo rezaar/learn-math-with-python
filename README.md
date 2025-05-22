@@ -57,6 +57,3 @@
 
 <hr>
 <p align="center">⭐️ اگر مفید بود، لطفاً این مخزن را <strong>ستاره‌دار</strong> کنید!</p>
-
-![Author: Reza Ahmadi](https://img.shields.io/badge/Author-Reza%20Ahmadi-blueviolet?style=flat-square&logo=github)
-![Field: Digital Electronics](https://img.shields.io/badge/Field-Digital%20Electronics-orange?style=flat-square&logo=semver)
